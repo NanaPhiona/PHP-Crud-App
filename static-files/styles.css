@@ -1,0 +1,8 @@
+.nav h4{
+    width: 30%;
+}
+
+.nav h3{
+    width: 70%;
+    display: flex;
+}
